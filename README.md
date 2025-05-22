@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="Banner.PNG" alt="Player-Club Fit Analyzer Banner" width="100%">
+  <img src="Banner.png" alt="Player-Club Fit Analyzer Banner" width="100%">
 </p>
 
 # ⚽ Player-Club Fit Analyzer 
