@@ -15,6 +15,8 @@ A **machine learning-powered** tool that helps football clubs:
 - 💰 **Optimize transfers** with financial ROI analysis
 - 📊 **Visualize gaps** in squad composition
 
+➡️ **Experience it live:** [player-fit-analyzer.com](https://playerfit.vercel.app/)
+
 Built for my MSc Final Project with real-world football data sourced from FBref and Transfermarkt
 
 ## 🛠️ Tech Stack
